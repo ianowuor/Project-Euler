@@ -1,2 +1,2 @@
-# miscellaneous
-Simple Projects
+# Project Euler
+Solution to simple problems on projecteuler.net
